@@ -28,5 +28,5 @@ START_MSG = """
 ⚡ This bot can help you in finding and sharing **movies** & **webseries**..🙃 It works in any chat,💬 just write @SearchOpBot in the text field and boom...💣 Let's try!🌀
 """
 
-SHARE_BUTTON_TEXT = '**Hey Bro Whats up;
-Please checkout ⭕ {username} ⭕ for searching🔍 all the movies and webseries**'
+SHARE_BUTTON_TEXT = 'Hey Bro Whats up;
+Please checkout ⭕ {username} ⭕ for searching🔍 all the movies and webseries'
